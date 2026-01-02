@@ -12,5 +12,5 @@ jobs:
 
       - name: Run hello script
         run: |
-          chmod +x hello.sh
+          chmod +x myfirstscript.sh
           ./myfirstscript.sh
